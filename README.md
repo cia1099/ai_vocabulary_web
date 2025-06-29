@@ -14,11 +14,13 @@ We collect the following types of information:
 ### a. Personal Information
 - Email address (via Firebase Authentication)
 - User identifiers (e.g., Firebase UID)
+- Speech records (only save on local device)
 
 ### b. Usage Data
 - Device information (e.g., device model, OS version)
 - App usage events and behavior (via Firebase Analytics)
 - Report wrong words (record in Supabase)
+- The speech recording file is only saved on the local device. This file is used for the speech-to-text conversion service, which helps users practice their pronunciation. We don't use speech recordings for any other purpose.
 
 ### c. Learning Progress Data
 - Your activity data within the app, such as bookmarks, favorite words, scores, progress tracking, and study history (stored in Supabase)
@@ -61,7 +63,7 @@ Please refer to their privacy policies to understand how they handle your data.
 
 ## 5. Data Retention
 
-We retain your personal data for as long as your account remains active. If you delete your account or request deletion, we will permanently erase your data from our systems within 30 days.
+We retain your personal data for as long as your account remains active. If you delete your account or request deletion, we will permanently erase your data from our systems within 14 days.
 
 ---
 
@@ -78,7 +80,7 @@ However, please note that no method of data transmission over the internet is 10
 
 ## In-App Purchases
 Our app offer in-app purchases for premium content or features. All transactions are processed securely through Apple’s App Store payment system. We do not collect or store any payment information. You can manage or cancel subscriptions via your App Store account settings.\
-If you encounter any issues with your purchases, please refer to the App Store's support or contact us at cia1099@icloud.com.
+If you encounter any issues with your purchases, please refer to the App Store's support or contact us at support@ai-vocabulary.com.
 
 ---
 
@@ -102,7 +104,7 @@ We may update this Privacy Policy from time to time. Changes will be posted on t
 
 If you have any questions about this Privacy Policy, please contact us:
 
-**Email:** cia1099@icloud.com  
+**Email:** support@ai-vocabulary.com  
 **Developer/Company Name:** AI Vocabulary Team
 
 ---
