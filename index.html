@@ -4,51 +4,163 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>AI Vocabulary App</title>
+    <title>AI Vocabulary - Your AI Teacher for Vocabulary Learning</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 </head>
 
 <body>
     <div class="background-image"></div>
-    <main class="content">
-        <h1>AI Vocabulary</h1>
-        <div style="padding-left: 180px;">
-            <p>
+    
+    <!-- Hero Section -->
+    <header class="hero">
+        <div class="hero-content">
+            <h1 class="hero-title">AI Vocabulary</h1>
+            <h2 class="hero-subtitle">Your AI Teacher for Vocabulary – Learn Words Like Scrolling TikTok!</h2>
+            <p class="hero-description">
+                Pick, practice, and remember vocabulary in a fun, interactive way with the help of AI.
                 Boost your English with smart, AI-powered vocabulary learning.
-                Tailored quizzes, personalized review, and real-time feedback
-                — right in your pocket.
             </p>
+            
+            <div class="store-buttons">
+                <a href="#" target="_blank" class="store-btn app-store">
+                    <img src="img/download-on-the-app-store.svg" alt="Download on the App Store" />
+                </a>
+                <a href="#" target="_blank" class="store-btn play-store">
+                    <img src="img/play_store.png" alt="Get it on Google Play" />
+                </a>
+            </div>
         </div>
+    </header>
 
-        <div class="store-buttons">
-            <a href="#" target="_blank" class="store-btn">
-                <img src="img/download-on-the-app-store.svg" alt="Download on the App Store" />
-            </a>
-            <a href="#" target="_blank" class="store-btn">
-                <img src="img/play_store.png" alt="Get it on Google Play" />
-            </a>
-        </div>
+    <!-- Features Section -->
+    <main class="main-content">
+        <!-- Core Features -->
+        <section class="features-section">
+            <div class="container">
+                <h2 class="section-title">Why Choose AI Vocabulary?</h2>
+                
+                <!-- Feature 1: Swipe Learning -->
+                <div class="feature-block">
+                    <div class="feature-content">
+                        <h3>🎯 Swipe to Choose Words</h3>
+                        <h4>No Forced Learning – You're in Control!</h4>
+                        <p>Swipe through words like short videos. Learn only the ones you want to.</p>
+                    </div>
+                    <div class="feature-mockups">
+                        <img src="img/mockup/vocabulary-portrait.png" alt="Vocabulary Learning" class="mockup-center" />
+                        <img src="img/mockup/vocabulary-left.png" alt="Vocabulary Swipe" class="mockup-left" />
+                    </div>
+                </div>
 
-        <div class="screenshot">
-            <img src="img/mockup/bottom_sheet-left.png" />
-            <img src="img/mockup/vocabulary-portrait.png" />
-            <img src="img/mockup/imagen-left.png" style="transform: rotateY(180deg);" />
-        </div>
+                <!-- Feature 2: AI Sentence Practice -->
+                <div class="feature-block reverse">
+                    <div class="feature-content">
+                        <h3>🤖 Sentence Practice with AI</h3>
+                        <h4>Practice Sentences with AI – Get Instant Feedback!</h4>
+                        <p>Learn how to use words, not just memorize them. AI checks your grammar and usage in real-time.</p>
+                    </div>
+                    <div class="feature-mockups">
+                        <img src="img/mockup/chat-portrait.png" alt="AI Chat Practice" class="mockup-center" />
+                        <img src="img/mockup/cloze-left.png" alt="Sentence Practice" class="mockup-left" />
+                    </div>
+                </div>
 
-        <div class="screenshot">
-            <img src="img/mockup/cloze-left.png" />
-            <img src="img/mockup/chat-portrait.png" />
-            <img src="img/mockup/puzzle-left.png" style="transform: rotateY(180deg);" />
-        </div>
+                <!-- Feature 3: Pronunciation -->
+                <div class="feature-block">
+                    <div class="feature-content">
+                        <h3>🎤 Real-Time Pronunciation Feedback</h3>
+                        <h4>Master Pronunciation with Syllable-by-Syllable Feedback!</h4>
+                        <p>Your personal speaking coach – improve pronunciation with pinpoint accuracy.</p>
+                    </div>
+                    <div class="feature-mockups">
+                        <img src="img/mockup/phoneme-portrait.png" alt="Pronunciation Practice" class="mockup-center" />
+                        <img src="img/mockup/phoneme-left.png" alt="Syllable Feedback" class="mockup-left" />
+                    </div>
+                </div>
 
-        <div class="screenshot">
-            <img src="img/mockup/collect_list-left.png" />
-            <img src="img/mockup/favorite-portrait.png" />
-            <img src="img/mockup/retention-left.png" style="transform: rotateY(180deg);" />
-        </div>
+                <!-- Feature 4: Visual Learning -->
+                <div class="feature-block reverse">
+                    <div class="feature-content">
+                        <h3>🎨 Visual Learning with AI-Generated Images</h3>
+                        <h4>Turn Sentences into Images – Learn Visually!</h4>
+                        <p>AI generates vivid images from example sentences, helping you form strong word associations.</p>
+                    </div>
+                    <div class="feature-mockups">
+                        <img src="img/mockup/imagen-portrait.png" alt="Visual Learning" class="mockup-center" />
+                        <img src="img/mockup/imagen-left.png" alt="AI Images" class="mockup-left" />
+                    </div>
+                </div>
+
+                <!-- Feature 5: Spaced Repetition -->
+                <div class="feature-block">
+                    <div class="feature-content">
+                        <h3>🧠 Spaced Repetition with Ebbinghaus Forgetting Curve</h3>
+                        <h4>Smart Review Recommendations Based on the Ebbinghaus Curve!</h4>
+                        <p>Review the right words at the right time for long-term retention.</p>
+                    </div>
+                    <div class="feature-mockups">
+                        <img src="img/mockup/retention-portrait.png" alt="Spaced Repetition" class="mockup-center" />
+                        <img src="img/mockup/puzzle-left.png" alt="Memory Games" class="mockup-left" />
+                    </div>
+                </div>
+
+                <!-- Feature 6: Bookmarks -->
+                <div class="feature-block reverse">
+                    <div class="feature-content">
+                        <h3>📚 Customized Bookmarks</h3>
+                        <h4>Organize Your Learning Journey</h4>
+                        <p>Easily collect and organize your favorite words for quick access and review.</p>
+                    </div>
+                    <div class="feature-mockups">
+                        <img src="img/mockup/favorite-portrait.png" alt="Bookmarks" class="mockup-center" />
+                        <img src="img/mockup/collect_list-left.png" alt="Collections" class="mockup-left" />
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Download CTA Section -->
+        <section class="download-section">
+            <div class="container">
+                <h2>Ready to Transform Your Vocabulary Learning?</h2>
+                <p>Join thousands of learners who are already improving their English with AI Vocabulary!</p>
+                
+                <div class="store-buttons large">
+                    <a href="#" target="_blank" class="store-btn app-store">
+                        <img src="img/download-on-the-app-store.svg" alt="Download on the App Store" />
+                    </a>
+                    <a href="#" target="_blank" class="store-btn play-store">
+                        <img src="img/play_store.png" alt="Get it on Google Play" />
+                    </a>
+                </div>
+            </div>
+        </section>
     </main>
 
-    <footer>© 2025 AI Vocabulary App</footer>
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h4>AI Vocabulary</h4>
+                    <p>Your AI-powered vocabulary learning companion</p>
+                </div>
+                <div class="footer-section">
+                    <h4>Support</h4>
+                    <p>Need help? Contact us at:</p>
+                    <a href="mailto:support@ai-vocabulary.com" class="support-email">support@ai-vocabulary.com</a>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>© 2025 AI Vocabulary App. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
 </body>
 
 </html>
