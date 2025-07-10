@@ -133,13 +133,14 @@ body {
 .feature-block {
     display: flex;
     align-items: center;
-    gap: 4rem;
+    column-gap: 4rem;
     margin-bottom: 6rem;
     padding: 3rem 0;
 }
 
 .feature-block.reverse {
     flex-direction: row-reverse;
+    column-gap: 0;
 }
 
 .feature-content {
@@ -173,7 +174,7 @@ body {
     position: relative;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: end;
     min-height: 400px;
 }
 
@@ -186,7 +187,7 @@ body {
 }
 
 .mockup-left {
-    max-width: 200px;
+    max-width: 300px;
     height: auto;
     border-radius: 15px;
     position: absolute;
