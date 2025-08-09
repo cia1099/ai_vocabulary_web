@@ -1,0 +1,109 @@
+en:
+  app_name: AI Vocabulary
+  app_subtitle: Learn vocabulary with AI
+  description: |
+    Your AI Teacher for Vocabulary – Learn Words Like Scrolling TikTok!
+    Pick, practice, and remember vocabulary in a fun, interactive way with the help of AI.
+    
+    ⏺ Swipe to Choose Words
+    No Forced Learning – You’re in Control!
+    Swipe through words like short videos. Learn only the ones you want to.
+    
+    ⏺ Tailored Quizzes
+    Personalized review and real-time feedback
+    
+    ⏺ Sentence Practice with AI
+    Practice Sentences with AI – Get Instant Feedback!
+    Learn how to use words, not just memorize them. AI checks your grammar and usage in real-life.
+    
+    ⏺ AI-powered Pronunciation Feedback
+    Master Pronunciation with Syllable-by-Syllable Feedback!
+    Your personal speaking coach – improve pronunciation with pinpoint accuracy.
+    
+    ⏺ Visual Learning with AI-Generated Images
+    Turn Sentences into Images – Learn Visually!
+    AI generates vivid images from example sentences, helping you form strong word associations.
+    
+    ⏺ Spaced Repetition with Ebbinghaus Forgetting Curve
+    Smart Review Recommendations based on the Ebbinghaus Curve!
+    Review the right words at the right time for long-term retention.
+    
+    ⏺ Customized bookmarks
+    Easily collect and organize your favorite words.
+  screenshot:
+    page1:
+      title: Your AI Teacher for Vocabulary – Learn Words Like Scrolling TikTok!
+      subtitle: Swipe through words like short videos. Learn only the ones you want to.
+      bottom: Pick, practice, and remember vocabulary in a fun, interactive way with the help of AI.  
+    page2:
+      title: Tailored quizzes, personalized review, and real-time feedback
+    page3:
+      title: Practice Sentences with AI
+      subtitle: Learn how to use words, not just memorize them. AI checks your grammar and usage in real-life.
+    page4:
+      title: AI-powered pronunciation
+      title2: Improve pronunciation with pinpoint accuracy.
+      bottom: Speeches support American, British, Australian, Canadian, and Indian accents. Help you practice listening to local accents.
+    page5:
+      title: Turn Sentences into Images Learn Visually!
+      subtitle: AI generates vivid images from example sentences, helping you form strong word associations.
+    page6:
+      title: Smart Review Recommendations 
+      subtitle: Based on the Ebbinghaus Curve!\nReview the right words at the right time for long-term retention.
+      title2: Save & Organize Words
+      subtitle2: Save words to your own custom lists – because better organization means better memory.
+
+zh_TW:
+  app_name: AI記單子
+  app_subtitle: 用AI輔助來學習單字和記憶詞彙
+  description: |
+    您的 AI 詞彙老師 - 像滾動 TikTok 一樣學習單字！
+    在人工智能的幫助下，以有趣的互動方式挑選、練習和記憶詞彙。
+    
+    ⏺ 輕掃選擇詞彙
+    沒有強迫學習 - 由您掌控！
+    像看短片一樣輕掃單字。只學習您想學的單字。
+    
+    ⏺ 量身打造的測驗
+    個人化複習和即時回饋
+    
+    ⏺ 使用 AI 練習句子
+    使用 AI 練習句子 - 獲得即時回饋！
+    學習如何使用單字，而不只是背誦單字。AI 檢查您在真實生活中的文法和用法。
+    
+    ⏺ AI 驅動的發音回饋
+    透過逐個詞彙回饋掌握發音！
+    您的私人口語教練 - 精準改善發音。
+    
+    ⏺ 利用 AI 產生的影像進行視覺學習
+    將句子轉換成影像 - 以視覺方式學習！
+    AI 可根據例句產生生動的圖像，幫助您形成強烈的單字聯想。
+    
+    ⏺ 利用艾賓浩斯遺忘曲線進行間隔重複
+    根據艾賓浩斯曲線提供智慧型複習建議！
+    在正確的時間複習正確的單字，以達到長期保持的效果。
+    
+    ⏺ 自訂書籤
+    輕鬆收集和整理您最喜愛的單字。
+  screenshot:
+    page1:
+      title: 您的AI詞彙老師 - 像滾動 TikTok 一樣學習單字！
+      subtitle: 像滑短片一樣輕鬆掃瞄單詞。只學您想學的。
+      bottom: 在人工智能的幫助下，以有趣的互動方式挑選、練習和記憶詞彙。  
+    page2:
+      title: 量身訂做的測驗、個人化的複習和即時回饋
+    page3:
+      title: 利用AI練習句子
+      subtitle: 學習如何使用單字，而不只是背誦單字。AI檢查您在真實生活中的文法和用法。
+    page4:
+      title: AI驅動的發音
+      title2: 對應音符準確纠正發音。
+      bottom: 演講支援美國、英國、澳洲、加拿大和印度口音。幫助您練習聆聽當地口音。
+    page5:
+      title: 將句子轉換成影像，以視覺化的方式學習！
+      subtitle: AI可根據例句生成生動的圖像，幫助您形成強烈的單詞聯想。
+    page6:
+      title: 智慧複習建議 
+      subtitle: 以艾賓豪斯曲線為基礎！\n在正確的時間複習正確的單字，以達到長期保持的效果。
+      title2: 保存和組織單字
+      subtitle2: 保存單字到您自定義清單 - 良好的整理有效提升更好的記憶。
