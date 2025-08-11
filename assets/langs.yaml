@@ -1,6 +1,7 @@
 en:
   app_name: AI Vocabulary
   app_subtitle: Learn vocabulary with AI
+  keywords: AI,English,TOEIC,TOEFL,IELTS,speak,listen,accent,chat,chatgpt,gpt,claude,gemini,code,copilot,word,vocabulary
   description: |
     Your AI Teacher for Vocabulary – Learn Words Like Scrolling TikTok!
     Pick, practice, and remember vocabulary in a fun, interactive way with the help of AI.
@@ -56,6 +57,7 @@ en:
 zh_TW:
   app_name: AI記單子
   app_subtitle: 用AI輔助來學習單字和記憶詞彙
+  keywords: AI,英語,多益,托福,雅思,英檢,扇貝,背單字,吐司,烏龜,百詞斬,奶酪,speak,chat,gpt,claude,gemini,code,copilot,word,vocabulary,口說,英文,詞彙,單字,單詞,单词
   description: |
     您的AI詞彙老師 - 像滑動 TikTok 一樣學習單字！
     在人工智能的幫助下，以有趣的互動方式挑選、練習和記憶詞彙。
@@ -107,3 +109,4 @@ zh_TW:
       subtitle: 以艾賓豪斯曲線為基礎！\n在正確的時間複習正確的單字，以達到長期保持的效果。
       title2: 保存和組織單字
       subtitle2: 保存單字到您自定義清單 - 良好的整理有效提升更好的記憶。
+
